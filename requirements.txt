@@ -1,0 +1,9 @@
+tqdm
+torchmetrics
+pytorch_lightning
+pandas
+pillow
+git+https://github.com/openai/CLIP.git
+pandas
+pyarrow
+fastparquet
